@@ -3,7 +3,8 @@
 **Search brief:** Find up to {batch_size} {market} businesses in {location} with a verifiable web-presence or conversion opportunity for a {offer}.  
 **Research date:** {YYYY-MM-DD}  
 **Sources used:** {official sites / user-provided list / permitted session search / other}  
-**Important:** This report records public observations from a limited review. It is not a full technical, legal or security audit.
+**Important:** This report records public observations from a limited review. It is not a full technical, legal or security audit.  
+**Record rule:** Each listed prospect was independently verified from a permitted public source; duplicates and unverified discovery-only results were excluded.
 
 ## Priority prospects
 
@@ -42,3 +43,4 @@
 - [ ] Approve or edit each outreach draft.
 - [ ] Send only to individually approved recipients.
 - [ ] Update pipeline status after each response.
+- [ ] Do not follow up unless it is individually approved.
