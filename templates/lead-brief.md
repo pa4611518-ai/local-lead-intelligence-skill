@@ -3,7 +3,8 @@
 **Status:** research / ready for review / approved for outreach / contacted / responded / proposal / closed / not a fit  
 **Checked on:** {YYYY-MM-DD}  
 **Market / location:** {market} — {location}  
-**Priority score:** {score}/100 ({high|medium|low})
+**Priority score:** {score}/100 ({high|medium|low})  
+**Record basis:** independently verified public source / user-provided lead list
 
 ## Public sources
 
@@ -50,3 +51,4 @@
 ## Uncertainty / follow-up
 
 - {What needs verification, or “None noted.”}
+- {Duplicate check, access limitation or contact preference observed.}
