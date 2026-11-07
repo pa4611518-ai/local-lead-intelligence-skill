@@ -2,9 +2,9 @@
 
 > **Turn focused local research into credible website sales opportunities.**
 >
-> Evidence-first prospecting for web freelancers and small agencies using Codex.
+> Evidence-first prospecting for web freelancers and small agencies using Codex, Claude or another compatible assistant.
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=flat-square)](#quick-start)
+[![AI Assistant Skill](https://img.shields.io/badge/AI%20Assistant-Compatible-111827?style=flat-square)](#quick-start)
 [![License: MIT](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)](LICENSE)
 [![Workflow](https://img.shields.io/badge/Workflow-human--reviewed-2563eb?style=flat-square)](#the-workflow)
 
@@ -69,7 +69,7 @@ Every message is a draft. The skill never sends messages or follow-ups unless yo
 
 ## Quick start
 
-Copy this folder into your Codex skills directory and use a focused prompt like this:
+Copy this folder into the skills directory for Codex, Claude or another compatible assistant, then use a focused prompt like this:
 
 ```text
 Use local-lead-intelligence to find up to 10 independent dental clinics in Bacabal, MA.
@@ -120,7 +120,7 @@ The report includes the source URL, check date and score breakdown. If the claim
 
 - Freelance web designers and developers
 - Local website agencies
-- Codex users building a more repeatable sales process
+- Codex, Claude and compatible-assistant users building a more repeatable sales process
 - Professionals who want to research before making a cold approach
 
 ## Responsible Google Maps use
