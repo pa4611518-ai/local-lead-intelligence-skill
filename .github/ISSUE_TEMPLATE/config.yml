@@ -1,0 +1,1 @@
+$blank_issues_enabled: false\ncontact_links:\n  - name: Project documentation\n    url: https://github.com/pa4611518-ai/local-lead-intelligence-skill#readme\n    about: Read the workflow, limits and validation guidance before opening an issue.\n
