@@ -30,11 +30,17 @@ for field in ("name:", "description:"):
         print(f"Missing front matter field: {field}")
         sys.exit(1)
 
+if skill.count("---\n") < 2:
+    print("SKILL.md front matter is not closed")
+    sys.exit(1)
+
 for phrase in (
     "Never bulk-scrape Google Maps",
     "No automatic outreach",
     "Ask for explicit approval before sending",
     "Quality gate",
+    "Persist only independently verified records",
+    "Do not bypass access controls",
 ):
     if phrase not in skill:
         print(f"Missing safeguard: {phrase}")
