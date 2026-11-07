@@ -4,7 +4,7 @@
 
 `Local Lead Intelligence` is a Codex skill for web freelancers and small agencies. It helps transform focused market research into a short, prioritized pipeline of local businesses that may benefit from a website, landing page or conversion improvement.
 
-It is not a scraping tool or an auto-messaging bot.
+It is not a scraping tool or an auto-messaging bot. It uses small, human-reviewed batches and only saves a lead after it has been independently verified from a permitted public source.
 
 ## What it does
 
@@ -87,6 +87,13 @@ Use the included templates:
 
 Copy this folder into your Codex skills directory, then ask Codex to use `local-lead-intelligence` for a focused niche and city.
 
+## Limits that protect the workflow
+
+- Default batch: 10 prospects; the skill will not exceed 20 unless you explicitly request it.
+- It de-duplicates businesses before scoring.
+- It does not bypass logins, CAPTCHAs, access blocks or private account areas.
+- It does not send or follow up with outreach without your separate approval for each action.
+
 ## License
 
-Choose a license before public distribution.
+Released under the [MIT License](LICENSE).
